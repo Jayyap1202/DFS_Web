@@ -50,7 +50,7 @@
           <div class="d-flex justify-content-around align-items-center mb-4">
   
             <div class="form-check">
-              <input class="form-check-input" type="checkbox" value="" id="form1Example3" checked />
+              <input class="form-check-input" type="checkbox" value="" id="form1Example3"/>
               <label class="form-check-label" for="form1Example3">I agree with the term and conditions stated.</label>
             </div>
             <button type="submit" class="btn btn-white btn-outline-dark btn-lg btn-block">Register</button>
